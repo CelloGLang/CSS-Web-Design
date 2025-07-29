@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    background-color: #1f2837;
+    height: auto;
+    width: auto;
+}
+
+ul {
+display: flex;
+list-style-type: none;
+gap: 16px;
+}
+
+.container1 {
+align-items: center;
+
+}
